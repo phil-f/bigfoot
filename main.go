@@ -96,7 +96,7 @@ func main() {
 
 	c.OnRequest(
 		func(r *colly.Request) {
-			fmt.Println("Scraping", r.URL.String())
+			fmt.Println("scraping", r.URL.String())
 			fmt.Println()
 		},
 	)
