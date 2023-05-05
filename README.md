@@ -1,2 +1,2 @@
 # bigfoot
-scraping for shoes in my size :)
+scraping for shoes
